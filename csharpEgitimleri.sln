@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_variables", "01_Ders\01_variables.csproj", "{28B25941-1928-4920-BAB0-C9928E41DC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_variablesDevam", "02_variablesDevam\02_variablesDevam.csproj", "{33724792-28AA-4A20-845C-1D58F0ED4D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28B25941-1928-4920-BAB0-C9928E41DC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B25941-1928-4920-BAB0-C9928E41DC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B25941-1928-4920-BAB0-C9928E41DC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B25941-1928-4920-BAB0-C9928E41DC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33724792-28AA-4A20-845C-1D58F0ED4D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33724792-28AA-4A20-845C-1D58F0ED4D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33724792-28AA-4A20-845C-1D58F0ED4D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33724792-28AA-4A20-845C-1D58F0ED4D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98C115FA-4D5F-458B-B458-ABE883A3A695}
+	EndGlobalSection
+EndGlobal

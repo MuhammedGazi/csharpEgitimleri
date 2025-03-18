@@ -62,7 +62,7 @@ namespace _03_makingDecision
             //    Console.WriteLine("pozitif tam sayı giriniz");
             //}
 
-            #endregionS
+            #endregion
 
             #region Switch Case Yapısı
             //char letter;
